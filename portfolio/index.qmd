@@ -1,0 +1,88 @@
+---
+about: 
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/sammyoddy
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/arduinounoboy
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/odeyemi-samuel-767673147?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+    - icon: envelope
+      text: Email
+      href: mailto:thesamuelodeyemi@gmail.com
+format: html
+css: styles.css
+---
+
+
+<div class="d-flex flex-column align-items-center">
+<img src="sammycolored.jpg" width="240" height="320">
+<h1>SAMMY ODEYEMI</h1>
+</div>
+
+<hr>
+
+<h2>
+Hi!, I am a grounded and goal-oriented Computer Science professional with demonstrated expertise in Data Analytics. Skilled in SQL, R, and Power BI, 
+</h2>
+<h2>
+I specialize in transforming complex data into clear insights for informed decision-making.
+</h2>
+
+<hr>
+
+<h1 style="text-align:left;">My Portfolio</h1>
+
+<hr>
+
+<h3 style="text-align:right;">Excel Projects</h3>
+::: {.grid}
+
+<!------- This block will take the whole page width on small screens and ------>
+<!------- only 50% of it on medium and large screens -------------------------->
+::: {.g-col-12 .g-col-md-6}
+
+```{=html}
+<!-- First Section -->
+<div style="flex: 1; padding: 10px;">
+  <a href="/Excel Projects/ISRPAL/isrpal.html" style="width:100%">
+    <img src="/Excel Projects/ISRPAL/ISRPAL FATALITIES MAIN.png" class="img-fluid">
+  </a>
+  <div style="text-align: center; padding: 0 3px; min-height: 6rem;">
+    This is an Analysis on the Israel-Palestine conflict and the fatalities that occurred. I employed Microsoft Excel to perform various operations, ranging from data cleaning to visualization.
+  </div>
+  <a class="btn btn-primary" href="/Excel Projects/ISRPAL/isrpal.html" role="button" style="width:169px;height:51px;padding:10px;">View Project
+  </a>
+</div>
+```
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+```{=html}
+<div style="flex: 1; padding: 10px;">
+  <a href="/Excel Projects/SYNERGY VIDEO GAME/synergy.html" style="width:100%">
+    <img src="/Excel Projects/SYNERGY VIDEO GAME/SYNERGY MAIN.png" class="img-fluid">
+  </a>
+  <div style="text-align: center; padding: 0 3px; min-height: 6rem;">
+    This is a Video Game Sales Analysis for Synergy Ltd. I employed Microsoft Excel to perform various operations, ranging from data cleaning to visualization.
+  </div>
+  <a class="btn btn-primary" href="/Excel Projects/SYNERGY VIDEO GAME/synergy.html" role="button" style="width:169px;height:51px;padding:10px; margin-top:14px;">View Project
+  </a>
+</div>
+```
+
+:::
+
+:::
+<!------- End of grid container ----------------------------------------------->
+
+<hr>
+
+<h3 style="text-align:right;">R Projects</h3>
+
