@@ -24,7 +24,7 @@
 
 
 ----
-`Folders descriptions`:
+`Folder description`:
 
 + modules:   
     This folder contains files that are extensions of the `app.py` file. They basically hold code for specific pages in the whole dashboard, such as `mod_overview.py`. This file contains both the user interface (UI) frontend code and the server (backend) code. Therefore, all the code within the `overview_ui()` function in `mod_overview.py` is the UI code for the dashboard page, and the other code within `overview_server()` is the server (backend) code for the dashboard page.
