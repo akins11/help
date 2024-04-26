@@ -1,2 +1,2 @@
-# image-tab-menu
+# solutions
 ...
